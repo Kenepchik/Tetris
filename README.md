@@ -1,6 +1,6 @@
-## **TETRIS**
- #Game
- #Project practice
+## TETRIS
+### Game
+### Project practice
  
 Stack for SPA app:
 
